@@ -78,7 +78,5 @@ select {
 }
 
 .partner-img, .img-replace {
-	width: 162px;
-	height: 162px;
-	background-color:red;
+	background-color:black;
 }

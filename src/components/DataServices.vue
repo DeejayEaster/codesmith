@@ -18,6 +18,18 @@
                 <p>We gather your data solely with passenger safety in mind!</p>
             </div>
         </div>
-        <button class="px-4 py-2 mt-8 border-2 border-solid border-black">Submit Your Data!</button>
+        <Button msg="Submit Your Data!" />
     </div>
 </template>
+
+
+<script>
+import Button from './Button';
+
+export default {
+  name: 'DataServices',
+  components: {
+    Button,
+  }
+}
+</script>
