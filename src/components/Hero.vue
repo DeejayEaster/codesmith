@@ -3,7 +3,7 @@
         <div class="w-3/6 m-auto">
             <h2 class="text-5xl p-12 font-bold">It doesn’t look like you’re there yet.</h2>
             <p class="text-4xl">Airport Name and Hotel Name are nearby, where would you like your food delivered to?</p>
-            <Button msg="Choose Location" class="bg-white mt-12" />
+            <Button msg="Choose Location" class="bg-white mt-16" />
         </div>
     </div>
 </template>
