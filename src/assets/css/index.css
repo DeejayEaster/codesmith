@@ -80,3 +80,9 @@ select {
 .partner-img, .img-replace {
 	background-color:black;
 }
+
+.active {
+  background-color: transparent;
+  border-radius: none;
+  font-weight: bold;
+}

@@ -1,14 +1,14 @@
 <template>
     <header>
         <div class="wrapper flex justify-between items-center">
-            <div class="w-44 p-8"></div>
+            <div class="w-44 p-16"></div>
             <div class="wrapper">
                 <nav>
                     <ul class="flex">
-                        <li class="mx-4" >Home</li>
-                        <li class="mx-4">Why Accompany?</li>
-                        <li class="mx-4">Careers</li>
-                        <li class="mx-4">Contact Us</li>
+                        <li class="mx-4 font-bold text-2xl" >Home</li>
+                        <li class="mx-4 text-2xl">Why Accompany?</li>
+                        <li class="mx-4 text-2xl">Careers</li>
+                        <li class="mx-4 text-2xl ">Contact Us</li>
                     </ul>
                 </nav>
             <div class="smartSearch"></div>
