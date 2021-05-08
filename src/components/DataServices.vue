@@ -7,15 +7,15 @@
             </div>
             <div class="data-card-wrapper flex justify-between">
                 <div class="data-card w-4/12 flex-col justify-center border-solid border-sectionGrey border-2 p-8">
-                    <div class="img-replace w-3/6 pt-48 m-auto mb-4"></div>
+                    <div class="img-replace w-60 h-60 m-auto mb-4"></div>
                     <p class="text-2xl">Save money by reporting your height & weight to airlines quicker!</p>
                 </div>
                 <div class="data-card w-4/12 flex-col mx-16 justify-center border-solid border-sectionGrey border-2 p-8">
-                    <div class="img-replace w-3/6 pt-48 m-auto mb-4"></div>
+                    <div class="img-replace w-60 h-60 m-auto mb-4"></div>
                     <p class="text-2xl">Gather information directly from other passengers on possible COVID-19 symptoms!</p>
                 </div>
                 <div class="data-card w-4/12 flex-col justify-center border-solid border-sectionGrey border-2 p-8">
-                    <div class="img-replace w-3/6 pt-48 m-auto mb-4"></div>
+                    <div class="img-replace w-60 h-60 m-auto mb-4"></div>
                     <p class="text-2xl">We gather your data solely with passenger safety in mind!</p>
                 </div>
             </div>
