@@ -81,8 +81,17 @@ select {
 	background-color:black;
 }
 
+.img-replace:after {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
 .active {
   background-color: transparent;
   border-radius: none;
   font-weight: bold;
+}
+
+.data-card p {
+  min-height:125px;
 }
